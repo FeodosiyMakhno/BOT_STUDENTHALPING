@@ -1,0 +1,11 @@
+from keyboards.client_kb import kb_menu
+from keyboards.client_kb import kb_client_cancel
+from keyboards.client_kb import inline_client
+from keyboards.client_kb import kb_return_menu
+from keyboards.client_kb import inline_message_check
+from keyboards.client_kb import kb_client_my_works
+from keyboards.client_kb import kb_client_cancel_and_loading_file
+from keyboards.client_kb import inline_close_post_file
+from keyboards.client_kb import inline_my_post
+from keyboards.client_kb import Inline_select_edit_buttons
+
